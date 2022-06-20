@@ -1,0 +1,18 @@
+body{
+    background-color: blueviolet;
+}
+.header_div{
+    color: aqua;
+    background-color: aquamarine;
+}
+.header_div p{
+    color: chocolate ;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    margin-top: 30px;
+    width: 130;
+    letter-spacing: 3px;
+}
